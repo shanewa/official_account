@@ -1,0 +1,59 @@
+#---------------------------------------------------------------------------
+#--- alarm.cnfg
+#---
+#--- Usage:
+#---
+#--- Info: eg. 11:18:6:11:57 <=> 11.18, Sat, 11:5
+#---------------------------------------------------------------------------
+#--- Developed by Shane Wang (shane.wang@alcatel-lucent.com)
+#--- Date: 2017.11.17
+#--------------------------------------------------------------------------
+#--- Issue Notes:
+#--- version1: 2017.11.17  Shane: Developed the base functionalities
+#---------------------------------------------------------------------------
+
+
+# The common alarms for both users.
+common_test_time="xx:xx"
+common_test="This is a test message."
+
+common_water_1_1_time="1:10:00"
+common_water_1_1="上午工作紧张，要及时补充水份~"
+common_water_1_2_time="2:10:00"
+common_water_1_2="那年夏天我总感到自己头昏眼花，浑身没劲。我到了医院，大夫龙飞凤舞很快开好了药方。我算了药价，竟有三百多元。取药的大夫叮嘱我说：“这药白天每隔两个小时吃一次，每次吃三片，一共是两周的药。”我还从没见过这样吃法的药，忙问他：“大夫，我到底得了什么病，这药到底治什么病？”那位大夫就很实在的告诉我：“其实这药什么病都不治，你现在最需要的只是多喝水。”"
+common_water_1_3_time="3:10:00"
+common_water_1_3="该喝点水了，让脑子进点儿水！"
+common_water_1_4_1_time="4:10:00"
+common_water_1_4_1="A：你得多喝水，这样有利于身体健康。"
+common_water_1_4_2_time="4:10:00"
+common_water_1_4_2="B：怎么突然说这个？你怎么知道我喝水少？"
+common_water_1_4_3_time="4:10:00"
+common_water_1_4_3="A：你看你一上午都没去洗手间。"
+common_water_1_4_4_time="4:10:00"
+common_water_1_4_4="B：你怎么知道我没去洗手间？"
+common_water_1_4_5_time="4:10:00"
+common_water_1_4_5="A：因为从早上我见你到现在，你的裤子拉链一直开着。。。"
+common_water_1_4_6_time="4:10:00"
+common_water_1_4_6="该喝水了 :)"　　　
+common_water_1_5_time="5:10:00"
+common_water_1_5="周五了，多喝点水，保持好心情~"
+common_water_1_6_time="6:10:00"
+common_water_1_6="喝喝喝喝！上午至少得喝200cc的水~"
+common_water_1_7_time="7:10:00"
+common_water_1_7="暖气让空气变干，上午至少得喝200cc的水~"
+
+common_water_2_time="14:00"
+common_water_2="两点了，该喝点水了~"
+
+common_ready_4_sleep_time="22:00"
+common_ready_4_sleep="关掉电脑、关闭手机、关掉电视，躺床上准备睡觉吧~"
+
+common_sleep_time="22:15"
+common_sleep="睡吧，晚安！"
+
+common_eye_3_time="15:00"
+common_eye_3="请休息眼睛5min以上：眼保健操"
+
+
+
+
